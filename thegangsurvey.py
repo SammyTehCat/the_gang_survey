@@ -1,6 +1,6 @@
 import easygui
 
-unova_gang_file_path = "C:\\Users\\Logan\\Desktop\\Python Programs\\"
+unova_gang_file_path = ".\\images\\"
 unovaGang = unova_gang_file_path + "unova_gang.jpg"
 ash = unova_gang_file_path + "courage.png"
 iris = unova_gang_file_path + "irisMad.jpg"
